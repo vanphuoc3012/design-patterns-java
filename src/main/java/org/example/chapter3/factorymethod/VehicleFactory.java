@@ -1,4 +1,4 @@
-package org.example.factorymethod;
+package org.example.chapter3.factorymethod;
 
 public class VehicleFactory {
     public VehicleFactory(){}

@@ -1,4 +1,4 @@
-package org.example.factorymethod;
+package org.example.chapter3.factorymethod;
 
 public class FactoryMethodMain {
     public static void main(String[] args) {
